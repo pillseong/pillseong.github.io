@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.643d39c7.css",
+    "main.js": "/static/js/main.e68b28f1.js",
+    "static/media/front1.png": "/static/media/front1.4713a33ba748b6732060.png",
+    "static/media/back1.png": "/static/media/back1.0ddc60efc21ed8f9801d.png",
+    "static/media/design.png": "/static/media/design.d0fb53f7a92ed68ff011.png",
+    "static/media/login.png": "/static/media/login.ef0894e012224322594b.png",
+    "static/media/front2.png": "/static/media/front2.5cc2a353e849de9bfc25.png",
+    "static/media/back3.png": "/static/media/back3.8eeb34a11ef2b7b1f676.png",
+    "static/media/back2.png": "/static/media/back2.62c9de0537902dc6b078.png",
+    "static/media/group2.png": "/static/media/group2.7c3a8962036c6c2e133c.png",
+    "static/media/group1.png": "/static/media/group1.d3e07e52ab0786e96f86.png",
+    "static/media/group3.png": "/static/media/group3.812712df63bf6ec5f7c8.png",
+    "static/media/group6.png": "/static/media/group6.62e3c49c365385b3647f.png",
+    "static/media/group8.png": "/static/media/group8.b8f07e1bf2b5867c90b7.png",
+    "static/media/group9.png": "/static/media/group9.290840ea1139f22b0673.png",
+    "static/media/group4.png": "/static/media/group4.bbd6526fc08721d732b7.png",
+    "static/media/group5.png": "/static/media/group5.b87ded9d8f20bd8c7076.png",
+    "static/media/group7.png": "/static/media/group7.41ff6eec9d6e89366115.png",
+    "static/media/LikeLion_Logo.png": "/static/media/LikeLion_Logo.b1f6f9b88f05ad7512aa.png",
+    "static/media/DRF.png": "/static/media/DRF.3bdf89ae346b571f52e3.png",
+    "static/media/notice.png": "/static/media/notice.d8a6d0bac51c37155cb2.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.643d39c7.css.map": "/static/css/main.643d39c7.css.map",
+    "main.e68b28f1.js.map": "/static/js/main.e68b28f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.643d39c7.css",
+    "static/js/main.e68b28f1.js"
+  ]
+}
